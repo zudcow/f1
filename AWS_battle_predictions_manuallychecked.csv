@@ -1,0 +1,40 @@
+Year,RaceName,ChasingBehind,ChasingFront,LeadLapofthePrediction,PredictedLaps,GapatPrediction,Difficulty,isAccurate,isVoided,Comment,ApproximateError
+2023,Brazil,PER,ALO,53,1,1.297,,True,False,,
+2023,Mexico,NOR,PIA,51,2,2.685,,False,False,,0.664
+2023,Mexico,NOR,RIC,58,2,1.969,,True,False,
+2023,Mexico,NOR,RUS,64,2,1.629,,True,False,
+2023,Miami,HAM,MAG,42,2,4.813,,False,False,,0.053
+2023,Singapore,RUS,LEC,48,5,9.123,,True,False,
+2023,USA,HAM,NOR,44,4,3.464,,True,False,
+2022,Azerbaijan,HAM,GAS,39,5,6.86,,True,False,
+2022,Canadian,VER,ALO,13,1,1.782,,True,False,
+2022,British,HAM,SAI,39,1,1.582,,False,True,safety_car
+2022,Austrian,SAI,VER,55,1,1.83,,True,False,
+2022,French,SAI,ALO,47,1,2.134,,True,False,
+2022,French,SAI,PER,34,2,1.624,,True,False,
+2022,French,SAI,RUS,26,2,1.168,,True,False,
+2022,Belgian,RUS,SAI,33,3,5.196,,False,False,,1.283
+2022,Belgian,RUS,SAI,25,3,4.484,,False,True,SAI pitted
+2022,Dutch,VER,HAM,29,1,1.822,,False,True,HAM pitted
+2022,United States,VER,HAM,41,5,3.39,,False,False,,1.066
+2021,Bahrain,VER,HAM,47,5,3.0,17/30,True,False,
+2021,Bahrain,VER,HAM,23,6,3.896,15/30,False,True,HAM pitted
+2021,Emilia Romagna,HAM,SAI,44,4,3.047,30/30,True,False,
+2021,British,HAM,LEC,45,4,4.281,8/30,True,False,
+2021,British,HAM,LEC,41,9,7.753,8/30,True,False,
+2021,British,HAM,BOT,32,2,3.703,3/30,False,False,,2.6
+2021,Hungarian,HAM,ALO,50,3,10.863,2/30,False,False,,0.985
+2021,Hungarian,ALO,HAM,44,8,6.258,14/30,False,True,HAM pitted
+2020,Tuscan,ALB,STR,40,2,2.361,12/30,False,False,,0.221
+2020,British,ALB,VET,48,2,3.715,2/30,True,False,
+2020,70th Anniversary,HAM,BOT,47,3,2.821,10/30,True,False,
+2020,Belgian,NOR,OCO,40,4,4.067,2/30,True,False,
+2020,Belgian,OCO,ALB,35,4,2.949,13/30,True,False,
+2020,Italian,SAI,GAS,47,1,1.774,22/30,False,False,,0.516
+2020,Italian,SAI,GAS,38,8,3.42,22/30,False,False,,0.662
+2020,Italian,HAM,ALB,36,1,5.512,2/30,True,False,
+2019,Belgian,ALB,PER,41,3,4.031,2/30,True,False,
+2019,Belgian,LEC,VET,25,2,1.827,2/30,True,False,
+2019,Russian,VER,SAI,14,6,2.443,25/30,True,False,
+2019,United States,VER,HAM,53,1,2.686,2/30,False,False,,0.137
+2019,United States,VER,HAM,53,2,2.641,2/30,True,False,
