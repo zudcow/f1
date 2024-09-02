@@ -34,12 +34,12 @@ class VideoAnalyzer:
             writer = csv.writer(file)
             writer.writerow(["Timestamp"])
             print(f"Working on {self.output_folder}")
+            
             while True:
                 if self.video.get(cv2.CAP_PROP_POS_FRAMES) > self.end_frame:
                     break
-
                 ret, frame = self.video.read()
-
+                
                 if not ret:
                     break
 
